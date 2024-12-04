@@ -31,7 +31,7 @@ Un'applicazione web per visualizzare le ultime notizie tecnologiche utilizzando 
 
 ## Schermate
 ### Homepage con le prime 10 notizie
-![Homepage](screenshot-homepage.png)
+![images](Screenshot)
 
 ## Contributi
 Contributi, bug fix e suggerimenti sono benvenuti! Sentiti libero di fare un fork del progetto.
