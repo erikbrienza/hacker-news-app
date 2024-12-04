@@ -29,9 +29,6 @@ Un'applicazione web per visualizzare le ultime notizie tecnologiche utilizzando 
 4. Visualizza le notizie nella pagina.
 5. Con il pulsante "Load More", carica e mostra i successivi blocchi di 10 notizie.
 
-## Schermate
-### Homepage con le prime 10 notizie
-![images](Screenshot)
 
 ## Contributi
 Contributi, bug fix e suggerimenti sono benvenuti! Sentiti libero di fare un fork del progetto.
